@@ -6,6 +6,9 @@
   "homepage": "https://github.com/wmupub/lerna-taste#readme",
   "license": "ISC",
   "main": "lib/fields-map.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -26,5 +29,5 @@
   "devDependencies": {
     "typescript": "^4.5.4"
   },
-  "gitHead": "00c4bf466f00977eb160c167006c349274a3a861"
+  "gitHead": "e554f0d0081d15799f9ab0e9f9087785af2cae95"
 }

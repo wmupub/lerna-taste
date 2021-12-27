@@ -6,6 +6,9 @@
   "homepage": "https://github.com/wmupub/lerna-taste#readme",
   "license": "ISC",
   "main": "lib/base-components.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -29,5 +32,5 @@
   "dependencies": {
     "vue": "^2.6.14"
   },
-  "gitHead": "303a245bb7940ef901006e68fb9f46261815157a"
+  "gitHead": "e554f0d0081d15799f9ab0e9f9087785af2cae95"
 }
