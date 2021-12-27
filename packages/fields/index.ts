@@ -1,5 +1,5 @@
 import Vue from 'vue';
 
-console.info(Vue);
+console.info(Vue, '~~');
 
 export const name = 'base-components';
