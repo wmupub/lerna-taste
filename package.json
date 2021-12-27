@@ -1,9 +1,13 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "start": "webpack-dev-server --config webpack.config.js"
+  },
   "devDependencies": {
     "@webpack-cli/generators": "2.4.1",
     "css-loader": "6.5.1",
+    "html-webpack-plugin": "5.5.0",
     "lerna": "^4.0.0",
     "mini-css-extract-plugin": "2.4.5",
     "prettier": "2.5.1",
