@@ -2,7 +2,7 @@
   "name": "@mupub/fields-map",
   "version": "0.0.7-alpha.0",
   "description": "> TODO: description",
-  "author": "wmu <wmupub@gmail.com>",
+  "author": "wmupub <wmupub@163.com>",
   "homepage": "https://github.com/wmupub/lerna-taste#readme",
   "license": "MIT",
   "main": "lib/fields-map.js",
