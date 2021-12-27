@@ -1,3 +1,3 @@
 export const name = 'fields-map';
 
-console.info('name');
+console.info('name ~');
