@@ -1,0 +1,29 @@
+{
+  "name": "base-components",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "wmu <wmupub@gmail.com>",
+  "homepage": "https://github.com/wmupub/lerna-taste#readme",
+  "license": "ISC",
+  "main": "lib/base-components.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmupub/lerna-taste.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wmupub/lerna-taste/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
