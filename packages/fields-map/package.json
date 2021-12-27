@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "wmu <wmupub@gmail.com>",
   "homepage": "https://github.com/wmupub/lerna-taste#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/fields-map.js",
   "publishConfig": {
     "access": "public"
@@ -29,5 +29,5 @@
   "devDependencies": {
     "typescript": "^4.5.4"
   },
-  "gitHead": "e554f0d0081d15799f9ab0e9f9087785af2cae95"
+  "gitHead": "3aac60bb161f99f899d02abfaa9929b84bd66feb"
 }
