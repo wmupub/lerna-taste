@@ -1,5 +1,5 @@
 {
-  "name": "base-components",
+  "name": "@mupub/base-components",
   "version": "0.0.4-alpha.0",
   "description": "> TODO: description",
   "author": "wmu <wmupub@gmail.com>",
@@ -29,5 +29,5 @@
   "dependencies": {
     "vue": "^2.6.14"
   },
-  "gitHead": "00c4bf466f00977eb160c167006c349274a3a861"
+  "gitHead": "303a245bb7940ef901006e68fb9f46261815157a"
 }
